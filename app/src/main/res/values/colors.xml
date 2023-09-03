@@ -4,14 +4,15 @@
     <color name="white">#FFFFFFFF</color>
 
    <!-- App Colors- -->
-    <color name="app_color_dark">#1B190F</color>
-    <color name="app_color_regular">#776E65</color>
-    <color name="app_color_light">#FAF8EF</color>
+    <color name="app_color_dark">#13BC00</color>
+    <color name="app_color_regular">#FFEFEF</color>
+    <color name="app_color_light">#001355</color>
 
-    <color name="black_cell">#423327</color>
-    <color name="white_cell">#efcf9b</color>
+    <color name="black_cell">#3E5261</color>
+    <color name="white_cell">#DEF5F7</color>
 
-    <color name="contrast_data">#a40d0d</color>
+    <color name="contrast_data">#FBECF2</color>
+    <color name="contrast_data2">#B10781</color>
 
     <!-- Board - -->
     <color name="selected_cell">#780533</color>
